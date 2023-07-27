@@ -5,6 +5,7 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ryan-chin-589283242/"
   
 - type: email
   icon: "fas fa-envelope"
@@ -12,6 +13,7 @@
   
 - type: aops
   icon: "fas fa-superscript"
+  url: "https://artofproblemsolving.com/community/user/382685"
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
