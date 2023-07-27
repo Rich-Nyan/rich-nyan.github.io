@@ -12,7 +12,7 @@
   noblank: true # open link in current tab
   
 - type: aops
-  icon: "fas fa-superscript"
+  icon: "fas fa-percent"
   url: "https://artofproblemsolving.com/community/user/382685"
 # - type: rss
 #   icon: "fas fa-rss"
