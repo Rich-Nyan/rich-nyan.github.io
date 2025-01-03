@@ -7,12 +7,11 @@ date: 2023-07-27
 ---
 
 
-Welcome! My name is Ryan Chin and I am a rising high school senior in Austin, Texas. 
+Welcome! My name is Ryan Chin and I am a college freshman at MIT.
 
-I am interested in math, computer science, and finance. Currently, I am a student researcher under the mentorship of [Fernando Palafox Escobedo](https://fernandopalafox.github.io) at the [UT Austin CLeAR Lab](https://clearoboticslab.github.io).
+I am interested in math, artificial intelligence, and finance. Currently, I am a student researcher at [MIT CSAIL Clinical Decision Making Group](https://mit-medg.github.io/) working in conjunction with [Itaú Unibanco](https://www.itau.com.br/) to address class imbalance in transactional datasets for more accurate fraud detection.
 
-In my free time, I am a competitive fencer and a tutor for [Math Done Right](https://sites.google.com/view/math-done-right/home).
-
+In my free time, I enjoy playing the piano, cooking for myself, and competing as a member of MIT's varsity fencing team.
 
 
 

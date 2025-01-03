@@ -22,9 +22,9 @@ future: true
 
 title: Ryan Chin # the main title
 
-tagline: High School Senior # it will display as the sub-title
+tagline: Freshman at MIT # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: >- # used by seo meta` and the atom feed
   Ryan Chin's personal website.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
